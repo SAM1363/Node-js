@@ -1,0 +1,14 @@
+{
+  "artists": [{
+    "artistID": 0,
+    "album_title" : "Devide",
+    "name": "Ed Sheeran",
+    "pic_name" : "sheeran"
+  },{
+    "artistID": 1,
+    "album_title" : "reputation",
+    "name": "Taylor Swift",
+    "pic_name" : "taylor"
+    
+  }]
+}

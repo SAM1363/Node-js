@@ -1,14 +1,19 @@
 {
-  "artists": [{
+  "album": [{
     "artistID": 0,
-    "album_title" : "Devide",
+    "album_title" : "Divide",
     "name": "Ed Sheeran",
-    "pic_name" : "sheeran"
+    "pic_name" : "sheeran1"
   },{
     "artistID": 1,
-    "album_title" : "reputation",
-    "name": "Taylor Swift",
-    "pic_name" : "taylor"
+    "album_title" : "X",
+    "name": "Ed Sheeran",
+    "pic_name" : "sheeran2"
     
+  },{
+    "artistID": 2,
+    "album_title" : "Plus",
+    "name": "Ed Sheeran",
+    "pic_name" : "sheeran3"
   }]
 }

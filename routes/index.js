@@ -21,17 +21,6 @@ router.get('/', (req, res) => {
         pageID: 'home'
       });
 
-
-
-    // res.send(`
-    //     <h1>front page</h1>
-
-    //         <img src="/images/artist/sheeran.jpg" style="height: 400px;" >
-           
-
-    
-    // `)
-
 })
 
 
